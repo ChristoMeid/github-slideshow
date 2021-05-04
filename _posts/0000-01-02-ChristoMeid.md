@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Truth is stranger than fiction.
 Use the left arrow to go back!
